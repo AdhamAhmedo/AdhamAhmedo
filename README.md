@@ -1,12 +1,27 @@
 <div align="center">
 
-# Hi, I'm Adham 👋
-
-### Cybersecurity Analyst | SOC & Penetration Testing | Cloud Security
+<table>
+<tr>
+<td width="110" align="center">
+<img src="./shield-float.svg" width="80" alt="shield"/>
+</td>
+<td align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=34&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&width=520&height=60&lines=Hi%2C+I'm+Adham+%F0%9F%91%8B" alt="Typing SVG - welcome"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=520&height=40&lines=SOC+Analyst;Penetration+Tester;Cloud+Security+Enthusiast" alt="Typing SVG - roles"/>
+</td>
+<td width="110" align="center">
+<img src="./crosshair-float.svg" width="80" alt="crosshair"/>
+</td>
+</tr>
+</table>
 
 </div>
 
----
+
+
+
+
+
 
 ## 🧑‍💻 About Me
 
@@ -52,45 +67,14 @@ I'm currently deciding between the **SOC / Blue Team** and **Penetration Testing
 
 ---
 
-## 🎓 Certifications
-
-| Certification | Issuer | Date |
-|---|---|---|
-| Introduction to Cybersecurity | Cisco | Jun 2026 |
-| CCNA: Switching, Routing, and Wireless Essentials | Cisco | Dec 2025 |
-| AWS Certified Cloud Practitioner | Amazon Web Services | Aug 2025 |
-| CCNAv7: Introduction to Networks | Cisco | Jun 2024 |
-
----
-
 ## 🧪 Labs & Writeups
 
-Tracking hands-on labs across platforms. Each solved lab links to a documented writeup with the approach and a link back to the original room/challenge.
-
-### TryHackMe
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/AdhamOoO)
+[![Writeups Repo](https://img.shields.io/badge/Writeups-CTF--writeups-24292E?style=flat&logo=github&logoColor=white)](https://github.com/AdhamAhmedo/CTF-writeups)
 
-**Progress:** 🟢 Easy `0` &nbsp;|&nbsp; 🟡 Medium `0` &nbsp;|&nbsp; 🔴 Hard `0` &nbsp;|&nbsp; **Total:** `0` rooms completed
+**Progress snapshot:** 🟢 Easy `0` &nbsp;|&nbsp; 🟡 Medium `0` &nbsp;|&nbsp; 🔴 Hard `0` &nbsp;|&nbsp; **Total:** `0` rooms completed
 
-https://github.com/AdhamAhmedo/CTF-writeups
-| Room | Difficulty | Category | Writeup | Room Link |
-|---|---|---|---|---|
-| _Example Room Name_ | 🟢 Easy | Web Exploitation | [Writeup](https://github.com/YOUR_USERNAME/writeups/blob/main/tryhackme/example-room.md) | [TryHackMe](https://tryhackme.com/room/example) |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Adham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdhamAhmedo&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdhamAhmedo&layout=compact&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdhamAhmedo&hide_border=true)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdhamAhmedo&hide_border=true)
-
-</div>
+> Full breakdown, categorized by platform and room, lives in the [CTF-writeups](https://github.com/AdhamAhmedo/CTF-writeups) repo
 
 ---
 
