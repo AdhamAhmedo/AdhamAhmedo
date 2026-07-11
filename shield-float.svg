@@ -1,0 +1,15 @@
+<svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .float { animation: floatY 3s ease-in-out infinite; transform-origin: 50px 50px; }
+    @keyframes floatY {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-12px); }
+    }
+  </style>
+  <g class="float">
+    <path d="M50 5 L90 20 L90 50 C90 75 70 90 50 95 C30 90 10 75 10 50 L10 20 Z"
+          fill="#00D4FF" stroke="#0A66C2" stroke-width="3"/>
+    <path d="M35 50 L45 60 L68 35" fill="none" stroke="#0B0C10" stroke-width="6"
+          stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
