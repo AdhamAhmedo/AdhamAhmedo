@@ -5,14 +5,16 @@
 </div>
 <br/>
 
-## 🧑‍💻 About Me
+### 🧑‍💻 About Me
 
 Going between **SOC / Blue Team** and **Penetration Testing / Red Team** paths (leaning toward SOC right now), with interest in **cloud security**. 
 
 - 🌱 Learning: SOC workflows, threat detection, and deepening my AWS security knowledge
 - 🎯 Goal: Land a SOC Analyst role and keep sharpening pentesting skills on the side
 
-## 🛠️ Skills
+<br/>
+
+### 🛠️ Skills
 
 ![Nmap](https://img.shields.io/badge/Nmap-1E1E1E?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -38,8 +40,9 @@ Going between **SOC / Blue Team** and **Penetration Testing / Red Team** paths (
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
-## 🧪 Labs & Writeups
+<br/>
 
+### 🧪 Labs & Writeups
 
 [![Writeups Repo](https://img.shields.io/badge/Writeups-CTF--writeups-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdhamAhmedo/CTF-writeups)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/AdhamOoO)
@@ -47,7 +50,9 @@ Going between **SOC / Blue Team** and **Penetration Testing / Red Team** paths (
 
 **Progress:** 🟢 Easy `0` &nbsp;|&nbsp; 🟡 Medium `0` &nbsp;|&nbsp; 🔴 Hard `0` &nbsp;|&nbsp; **Total:** `0` rooms completed
 
-## 📫 Get In Touch
+<br/>
+
+### 📫 Get In Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adham-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adham-a-a2992b351)
 [![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhamshahada03@gmail.com)
