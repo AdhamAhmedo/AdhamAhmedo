@@ -12,7 +12,8 @@ Going between **SOC / Blue Team** and **Penetration Testing / Red Team** paths (
 - 🌱 Learning: SOC workflows, threat detection, and deepening my AWS security knowledge
 - 🎯 Goal: Land a SOC Analyst role and keep sharpening pentesting skills on the side
 
-<br/>
+
+
 
 ### 🛠️ Skills
 
