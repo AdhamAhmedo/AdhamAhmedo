@@ -48,7 +48,7 @@ Going between **SOC / Blue Team** and **Penetration Testing / Red Team** paths (
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/AdhamOoO)
 [![CyberDefenders](https://img.shields.io/badge/CyberDefenders-Profile-2E8B57?style=for-the-badge&logo=cyberdefenders&logoColor=white)](https://cyberdefenders.org/p/AdhamOoO)
 
-**Progress:** 🟢 Easy `0` &nbsp;|&nbsp; 🟡 Medium `0` &nbsp;|&nbsp; 🔴 Hard `0` &nbsp;|&nbsp; **Total:** `0` rooms completed
+**Progress:** 🟢 Easy `9` &nbsp;|&nbsp; 🟡 Medium `0` &nbsp;|&nbsp; 🔴 Hard `0` &nbsp;|&nbsp; **Total:** `0` rooms completed
 
 <br/>
 
