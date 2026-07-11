@@ -40,7 +40,6 @@ Going between **SOC / Blue Team** and **Penetration Testing / Red Team** paths (
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
-<br/>
 
 ### 🧪 Labs & Writeups
 
