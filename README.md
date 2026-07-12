@@ -40,6 +40,8 @@ Going between **SOC / Blue Team** and **Penetration Testing / Red Team** paths (
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-2E8B57?style=for-the-badge)
 
 
 ### 🧪 Labs & Writeups
