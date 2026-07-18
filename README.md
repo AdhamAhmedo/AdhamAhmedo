@@ -44,13 +44,14 @@ Going between **SOC / Blue Team** and **Penetration Testing / Red Team** paths (
 ![SIEM](https://img.shields.io/badge/SIEM-2E8B57?style=for-the-badge)
 
 
-### 🧪 Labs & Writeups
+### 🧪 Labs & Writeups [![Writeups Repo](https://img.shields.io/badge/Writeups-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdhamAhmedo/CTF-writeups)
 
-[![Writeups Repo](https://img.shields.io/badge/Writeups-CTF--writeups-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdhamAhmedo/CTF-writeups)
+
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/AdhamOoO)
 [![CyberDefenders](https://img.shields.io/badge/CyberDefenders-Profile-2E8B57?style=for-the-badge&logo=cyberdefenders&logoColor=white)](https://cyberdefenders.org/p/AdhamOoO)
+[![LetsDefend](https://img.shields.io/badge/LetsDefend-Profile-1B2A4A?style=for-the-badge&logo=letsdefend&logoColor=white)](https://app.letsdefend.io/user/AdhamOoO)
 
-**Progress:** 🟢 Easy `9` &nbsp;|&nbsp; 🟡 Medium `0` &nbsp;|&nbsp; 🔴 Hard `0` &nbsp;|&nbsp; **Total:** `0` rooms completed
+**Progress:** 🟢 Easy `10` &nbsp;|&nbsp; 🟡 Medium `0` &nbsp;|&nbsp; 🔴 Hard `0` &nbsp;|&nbsp; **Total:** `0` rooms completed
 
 <br/>
 
